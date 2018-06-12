@@ -13,6 +13,7 @@ hr {
   max-width: 65px;
   border-width: 3px;
   border-color: #F05F44; 
+  color: white;
 }
 
 .faded {
@@ -21,24 +22,24 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("header.jpg");
+  background-image: url("lockers.jpg");
   background-size: cover;
   height: 100%;
 }
 
 header.startup hr {
-  margin-top: 200px;
+  margin-top: 20px;
   margin-bottom: 30px; 
 }
 
 header.startup h1 {
-  font-size: 2rem; 
+  font-size: 3rem; 
 }
 
 .btn {
   font-weight: 700;
   text-transform: uppercase;
-  border-radius: 300px;
+  border-radius: 30px;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -56,4 +57,4 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+
